@@ -1,2 +1,28 @@
-# Hospital-Management-System-in-Odoo-17
-Hospital Management System – Odoo 17  A custom Hospital Management System built in Odoo 17 that allows users to add and view patients and manage appointments efficiently. The system includes two applications: Doctor and Receptionist, enabling smooth coordination between medical staff and front desk operations.
+# Hospital Management System – Odoo 17
+
+## Overview
+This project is a **Hospital Management System built in Odoo 17** to manage basic hospital operations efficiently.  
+It allows hospital staff to manage **patients and appointments** through two main applications: **Doctor** and **Receptionist**.
+
+The system is designed to demonstrate **Odoo module development**, including custom models, views, and menus.
+
+## Features
+- Add new patients
+- View patient records
+- Manage patient appointments
+- Separate applications for **Doctor** and **Receptionist**
+- Simple and organized interface for hospital workflow
+
+## Technologies Used
+- Odoo 17
+- Python
+- XML
+- PostgreSQL
+
+## Usage
+- **Receptionist** can add and view patient records and manage appointments.
+- **Doctor** can view patient information and appointments.
+
+## Author
+**Muhammad Altaf Samin**  
+Odoo Technical Developer | Python Developer
